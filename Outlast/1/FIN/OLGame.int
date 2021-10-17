@@ -535,14 +535,14 @@ XboxTypeS_DPad_Right=DPAD RIGHT
 XboxTypeS_DPad_Left=DPAD LEFT
 
 [Locations]
-Admin=Administration Block
-Prison=Prison Block
-Sewer=Sewer
-Male=Male Ward
-Courtyard=Courtyard
-Female=Female Ward
-AdminRevisit=Return to the Administration Block
-Lab=Underground Lab
+Admin=Hallintolohko
+Prison=Vankila
+Sewer=Viemäri
+Male=Miesosasto
+Courtyard=Piha
+Female=Naisosasto
+AdminRevisit=Palaa hallintolohkoon
+Lab=Maanalainen laboratorio
 
 ; DLC
 
